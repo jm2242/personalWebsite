@@ -7,7 +7,7 @@ tags: ["tech", "Gatsby", "React"]
 
 This week, while visiting grandparents in Israel, I decided to change my personal website to include a blog. My current website looks like this:
 
-![My Current Website](old-personal-website.png)
+![My Current Website](old-personal-website.jpg)
 
 Besides updating the photo of me from 5 years ago, it was time to do some housekeeping. I chose this template a few years ago as it used Material Design and looked nice (to me, at least). At the time, I took the template and made it work in Jekyll, which made developing it a better experience. Jekyll has good blogging support in markdown, which is nice, but extending the current template to include a blog section seemed time consuming, and so I put it off for a long time.
 
