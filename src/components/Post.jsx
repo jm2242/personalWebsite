@@ -64,7 +64,7 @@ export default function Post({
       />
       <hr />
       <p>
-        <Link to="/about">I’m</Link> Jonathan Mares, I'm a software engineer in Washington, DC. Follow me on{' '}
+        <Link to="/about">I’m</Link> Jonathan Mares, I'm a software engineer based in Walnut Creek, CA. Follow me on{' '}
         <a href="https://twitter.com/jmares93" rel="noopener noreferrer">
           Twitter
         </a>!

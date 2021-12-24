@@ -1,10 +1,12 @@
 ---
-title: Riding the Continental Divide on Adventure Motorcycles (In Progress)
+title: Riding the Continental Divide on Adventure Motorcycles
 date: 2019-11-25
 excerpt: 3 Weeks in the Rockies riding over 2,000 miles
 tags: ["motorcycle"]
 cover: ./marshall_pass_cover.jpg
 ---
+
+Check out a video I prepared of our trip on Youtube [here](https://www.youtube.com/watch?v=ajMygbRiZcQ)!
 
 My father and I decided to up our game this year and try a longer and more intense motorcycle trip. We had our sights on the Continental Divide after watching videos of the beautiful landscape out west. What better way to take in the scenery than on an adventure bike!
 
@@ -14,7 +16,7 @@ Planning for this trip began months before. We deliberated for a long time wheth
 ![Entire Route](./full_route.png)
 *After hauling our bikes from NY to Great Falls, MT, we began our 2,000+ mile journey towards the Mexican border. We ended the trip in Albuquerque, NM.*
 
-We didn't actually make it to the Mexican border because we ran out of time. We will have to do this next time! I hope you enjoy this writeup of our trips with pictures. I'm also working on compiling video footage which will be on Youtube soon!
+We didn't actually make it to the Mexican border because we ran out of time. We will have to do this next time! I hope you enjoy this writeup of our trips with pictures. Also, check out a video I prepared on Youtube [here](https://www.youtube.com/watch?v=ajMygbRiZcQ)!
 
 
 # Day 1 - NY to Ohio
