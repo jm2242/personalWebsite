@@ -18,6 +18,7 @@ module.exports = {
     'gatsby-plugin-styled-components',
     'gatsby-plugin-react-helmet',
     'gatsby-plugin-sitemap',
+    `gatsby-plugin-sharp`,
     {
       resolve: 'gatsby-plugin-nprogress',
       options: {
